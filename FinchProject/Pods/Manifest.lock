@@ -1,0 +1,16 @@
+PODS:
+  - PTEHorizontalTableView (1.1.0)
+
+DEPENDENCIES:
+  - PTEHorizontalTableView
+
+SPEC REPOS:
+  trunk:
+    - PTEHorizontalTableView
+
+SPEC CHECKSUMS:
+  PTEHorizontalTableView: 635dd91f11206ebeda9f300500e47fe970d56d32
+
+PODFILE CHECKSUM: e69d71df687dcc396188229a17f848d5a7ee6b11
+
+COCOAPODS: 1.11.2
